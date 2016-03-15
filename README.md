@@ -40,3 +40,24 @@ Datacenter Operations
 Genuine Parts Company  
 June 2007 – July 2011 (4 years 2 months)  
 Comprehensive experience in VMware and System Administration. Managing VMWare ESX v4.1 in HP c7000 blade enclosures.  
+
+Certifications
+------
+
+##### AWS Certified Solutions Architect - Associate  
+Amazon Web Services, License AWS-ASA-5575  
+January 2015  
+
+##### AWS Certified Developer - Associate  
+Amazon Web Services, License AWS-ADEV-563  
+February 2015 – February 2017  
+
+##### AWS Certified SysOps Administrator - Associate  
+Amazon Web Services, License AWS-ASOA-897  
+March 2015 – March 2017  
+
+##### VMWare VCP 4.1  
+VMware, License 7228569-8750-86E78FD6FE7B  
+November 2011 – March 2015  
+
+
