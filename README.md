@@ -60,4 +60,11 @@ March 2015 – March 2017
 VMware, License 7228569-8750-86E78FD6FE7B  
 November 2011 – March 2015  
 
+Education
+------
 
+##### Lee University
+B.S., Mathematics
+August 1996 – July 2000
+Activities and Societies: 
+Student Government Association, Chess Team, Habitat for Humanity, Empowered Choir.
