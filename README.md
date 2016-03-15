@@ -14,7 +14,7 @@ Specialties: Technical Profile:
 * AWS - Cloud Formation Templates, VPC, EC2, S3, DevOps, RDS, Beanstalk, DynamoDB
 * Virtualization – Cloud Strategies, VCP, vSphere, vCenter, HA, DRS, SRM
 * Operating Systems – ESXi 4.1 5.1, Redhat Linux, Amazon Linux, Windows 2008 2012
-* Scripting – Python, Perl, Bash, Shell, vCLI, VMWare Perl SDK
+* Scripting – Lambda, Python, Perl, Bash, Shell, vCLI, VMWare Perl SDK
 * Monitoring – CloudWatch, CloudTrail
 
 Experience
