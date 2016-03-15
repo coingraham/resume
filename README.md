@@ -1,4 +1,5 @@
 # resume
+<<<<<<< HEAD
 
 Professional HIghlights:
 * AWS Certified Solution Architect - Associate
@@ -15,3 +16,5 @@ Specialties: Technical Profile:
 * Operating Systems – ESXi 4.1 5.1, Redhat Linux, Amazon Linux, Windows 2008 2012
 * Scripting – Python, Perl, Bash, Shell, vCLI, VMWare Perl SDK
 * Monitoring – CloudWatch, CloudTrail
+=======
+>>>>>>> origin/master
