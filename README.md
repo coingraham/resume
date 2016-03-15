@@ -19,6 +19,7 @@ Specialties: Technical Profile:
 
 Experience
 ------
+
 Senior Cloud Engineer
 2nd Watch
 October 2014 – Present (1 year 6 months)Greater Atlanta Area
