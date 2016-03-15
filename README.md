@@ -1,12 +1,13 @@
 Coin Graham IV
 ======
 
-Professional HIghlights:
+Professional Highlights:
+* Migrated the largest consumer website for one of the top 5 most valuable brands in the world to AWS.
+* Built AWS infrastructure to support corporate big data platforms with S3, Redshift, Hortonworks, Tableau, and SAP HANA.
 * AWS Certified Solution Architect - Associate
 * AWS Certified Developer - Associate
 * AWS Certified SysOps Administrator - Associate
 * VMWare Certified Professional on ESX ESXi 4.1 (VCP41)
-* Familiar with major components of data center operations.
 * Managed a small team of data center engineers covering hardware, virtualization, and applications.
 
 Specialties: Technical Profile:
