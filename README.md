@@ -7,7 +7,6 @@ Professional Highlights:
 * AWS Certified Solution Architect - Associate
 * AWS Certified Developer - Associate
 * AWS Certified SysOps Administrator - Associate
-* VMWare Certified Professional on ESX ESXi 4.1 (VCP41)
 * Managed a small team of data center engineers covering hardware, virtualization, and applications.
 
 Specialties: Technical Profile:
