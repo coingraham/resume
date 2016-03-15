@@ -64,7 +64,7 @@ Education
 ------
 
 ##### Lee University
-B.S., Mathematics
-August 1996 – July 2000
-Activities and Societies: 
-Student Government Association, Chess Team, Habitat for Humanity, Empowered Choir.
+B.S., Mathematics  
+August 1996 – July 2000  
+Activities and Societies:   
+Student Government Association, Chess Team, Habitat for Humanity, Empowered Choir.  
