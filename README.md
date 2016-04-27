@@ -4,6 +4,7 @@ Coin Graham IV
 Professional Highlights:
 * Migrated the largest consumer website for ([one of the top 5 most valuable brands in the world and whose name I cannot mention](http://c.cocacola.co.jp/)) to AWS.
 * Built AWS infrastructure to support corporate big data platforms with S3, Redshift, Hortonworks, Tableau, and SAP HANA.
+* AWS Certified Solution Architect - Professional
 * AWS Certified Solution Architect - Associate
 * AWS Certified Developer - Associate
 * AWS Certified SysOps Administrator - Associate
