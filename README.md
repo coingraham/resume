@@ -21,7 +21,7 @@ Specialties: Technical Profile:
 Experience
 ------
 
-##### Senior Cloud Engineer  
+##### Senior Consultant  
 2nd Watch  
 October 2014 – Present (1 year 6 months)Greater Atlanta Area  
 Working to design, deploying and manage critical business workloads in the public cloud.  
