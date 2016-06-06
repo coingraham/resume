@@ -25,15 +25,15 @@ Experience
 2nd Watch  
 October 2014 – Present (1 year 9 months)Greater Atlanta Area  
 Highlevel:  
-Working to architect, deploy, and manage critical business workloads in the public cloud for one of the largest and most recognizable brands in the world.  Concurrently engaged in multiple projects in different roles depending on expertise and availability.
-
-Lowlevel:  
-Big data infrastructure architecture, design and deployment.  Focus on architecting for data access performance.
-Flagship consumer web site architecture, design and deployment.  Focus on architecting for high availability, elasticity, and response times. 
-Enterprise Oracle application redesigned from old cloud to new.  Focus on architecting for low cost and security. 
-Code Commit Helper development.  Creating development utilities to speed up cloud adoption.
-Other project examples available on request.
+Working to architect, deploy, and manage critical business workloads in the public cloud for one of the largest and most recognizable brands in the world.  Concurrently engaged in multiple projects in different roles depending on expertise and availability.  
   
+Lowlevel:  
+Big data infrastructure architecture, design and deployment.  Focus on architecting for data access performance.  
+Flagship consumer web site architecture, design and deployment.  Focus on architecting for high availability, elasticity, and response times.   
+Enterprise Oracle application redesigned from old cloud to new.  Focus on architecting for low cost and security.   
+Code Commit Helper development.  Creating development utilities to speed up cloud adoption.  
+Other project examples available on request.  
+    
 ##### Cloud Virtualization Architect  
 Birch Communications (formerly CBeyond)  
 October 2013 – October 2014 (1 year 1 month)Greater Atlanta Area  
