@@ -24,10 +24,10 @@ Experience
 ##### Senior Consultant  
 2nd Watch  
 October 2014 – Present (1 year 9 months)Greater Atlanta Area  
-Highlevel:
+Highlevel:  
 Working to architect, deploy, and manage critical business workloads in the public cloud for one of the largest and most recognizable brands in the world.  Concurrently engaged in multiple projects in different roles depending on expertise and availability.
 
-Lowlevel:
+Lowlevel:  
 Big data infrastructure architecture, design and deployment.  Focus on architecting for data access performance.
 Flagship consumer web site architecture, design and deployment.  Focus on architecting for high availability, elasticity, and response times. 
 Enterprise Oracle application redesigned from old cloud to new.  Focus on architecting for low cost and security. 
