@@ -53,6 +53,10 @@ Comprehensive experience in VMware and System Administration. Managing VMWare ES
 Certifications
 ------
 
+##### AWS Certified DevOps Engineer - Professional  
+Amazon Web Services, License AWS-PDOE-1697  
+March 2017 - March 2019  
+
 ##### AWS Certified Solutions Architect - Professional  
 Amazon Web Services, License AWS-PSA-1871  
 April 2016 - April 2018  
