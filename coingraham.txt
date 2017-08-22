@@ -1,25 +1,25 @@
 Coin Graham IV
 ======
-
-Professional Highlights:
-* Migrated the largest consumer website for ([one of the top 5 most valuable brands in the world and whose name I cannot mention](http://c.cocacola.co.jp/)) to AWS.
-* Built AWS infrastructure to support corporate big data platforms with S3, Redshift, Hortonworks, Tableau, and SAP HANA.
-* All Five AWS Certificates!
-* AWS Certified Solution Architect - Professional
-* AWS Certified DevOps Engineer - Professional
-* AWS Certified Solution Architect - Associate
-* AWS Certified Developer - Associate
-* AWS Certified SysOps Administrator - Associate
-* Managed a small team of data center engineers covering hardware, virtualization, and applications.
-
-Specialties: Technical Profile:
-* Cloud - Amazon AWS, Savvis Station, Terremark Verizon
-* AWS - Cloud Formation Templates, VPC, EC2, S3, DevOps, RDS, Beanstalk, DynamoDB
-* Virtualization – Cloud Strategies, VCP, vSphere, vCenter, HA, DRS, SRM
-* Operating Systems – ESXi 4.1 5.1, Redhat Linux, Amazon Linux, Windows 2008 2012
-* Scripting – Lambda, Python, Perl, Bash, Shell, vCLI, VMWare Perl SDK
-* Monitoring – CloudWatch, CloudTrail
-
+  
+Professional Highlights:  
+* Migrated the largest consumer website for ([one of the top 5 most valuable brands in the world and whose name I cannot mention](http://c.cocacola.co.jp/)) to AWS.  
+* Built AWS infrastructure to support corporate big data platforms with S3, Redshift, Hortonworks, Tableau, and SAP HANA.  
+* All Five AWS Certificates!  
+* AWS Certified Solution Architect - Professional  
+* AWS Certified DevOps Engineer - Professional  
+* AWS Certified Solution Architect - Associate  
+* AWS Certified Developer - Associate  
+* AWS Certified SysOps Administrator - Associate  
+* Managed a small team of data center engineers covering hardware, virtualization, and applications.  
+  
+Specialties: Technical Profile:  
+* AWS - Cloud Formation Templates, VPC, EC2, S3, DevOps, RDS, Beanstalk, DynamoDB, Lambda  
+* Cloud - Amazon AWS, Savvis Station, Terremark Verizon  
+* Virtualization – Cloud Strategies, VCP, vSphere, vCenter, HA, DRS, SRM  
+* Operating Systems – ESXi 4.1 5.1, Redhat Linux, Amazon Linux, Windows 2008 2012 2016  
+* Scripting – Python, Perl, Bash, Shell, vCLI, VMWare Perl SDK  
+* Monitoring – CloudWatch, CloudTrail  
+  
 Experience
 ------
 
