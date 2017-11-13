@@ -13,7 +13,7 @@ Professional Highlights:
 * Managed a small team of data center engineers covering hardware, virtualization, and applications.  
   
 Specialties: Technical Profile:  
-* AWS - Cloud Formation Templates, VPC, EC2, S3, DevOps, RDS, Beanstalk, DynamoDB, Lambda  
+* AWS - Cloud Formation Templates, VPC, EC2, S3, DevOps, RDS, EMR, DynamoDB, Lambda  
 * Cloud - Amazon AWS, Savvis Station, Terremark Verizon  
 * Virtualization – Cloud Strategies, VCP, vSphere, vCenter, HA, DRS, SRM  
 * Operating Systems – ESXi 4.1 5.1, Redhat Linux, Amazon Linux, Windows 2008 2012 2016  
@@ -28,7 +28,7 @@ Experience
 October 2014 – Present (3 years 2 months)Greater Atlanta Area  
 Working on projects to architect, deploy, and manage critical business workloads in the public cloud for one of the largest and most recognizable brands in the world.  Concurrently engaged in multiple projects in different roles depending on expertise and availability.  
   
-* Big data infrastructure project.  Focus on architecting for data access performance.  
+* Big data infrastructure project.  Focus on architecting for secure access and data performance.   
 * Flagship consumer web site project.  Focus on architecting for high availability, elasticity, and response times.   
 * Enterprise Oracle application project.  Focus on architecting for low cost and security.   
 * Code Commit Helper development.  Creating development utilities to speed up cloud adoption.  
