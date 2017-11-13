@@ -25,7 +25,7 @@ Experience
 
 ##### Senior Consultant  
 2nd Watch  
-October 2014 – Present (1 year 9 months)Greater Atlanta Area  
+October 2014 – Present (3 years 2 months)Greater Atlanta Area  
 Working on projects to architect, deploy, and manage critical business workloads in the public cloud for one of the largest and most recognizable brands in the world.  Concurrently engaged in multiple projects in different roles depending on expertise and availability.  
   
 * Big data infrastructure project.  Focus on architecting for data access performance.  
