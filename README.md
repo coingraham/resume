@@ -2,6 +2,7 @@ Coin Graham IV
 ======
   
 Professional Highlights:  
+------
 * Leading a team of high impact consultants to accomplish client goals.
 * Creating security compliant infrastructure that meets PCI, PII, and international requirements.  
 * Migrated the largest consumer website for one of the top 5 most valuable brands in the world to AWS.  
@@ -17,7 +18,8 @@ All Five AWS Certificates plus Specialty Certificate!
 * AWS Certified Developer - Associate  
 * AWS Certified SysOps Administrator - Associate  
   
-Technical Profile:  
+Technical Profile: 
+------ 
 * AWS - Terraform, Cloud Formation Templates, VPC, EC2, S3, DevOps, RDS, EMR, DynamoDB, Lambda  
 * Cloud - Amazon AWS, Savvis Station, Terremark Verizon  
 * Virtualization – Cloud Strategies, VCP, vSphere, vCenter, HA, DRS, SRM  
