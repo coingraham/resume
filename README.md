@@ -2,18 +2,22 @@ Coin Graham IV
 ======
   
 Professional Highlights:  
-* Migrated the largest consumer website for ([one of the top 5 most valuable brands in the world and whose name I cannot mention](http://c.cocacola.co.jp/)) to AWS.  
-* Built AWS infrastructure to support corporate big data platforms with S3, Redshift, Hortonworks, Tableau, and SAP HANA.  
-* All Five AWS Certificates!  
+* Leading a team of high impact consultants to accomplish client goals.
+* Creating security compliant infrastructure that meets PCI, PII, and international requirements.  
+* Migrated the largest consumer website for one of the top 5 most valuable brands in the world to AWS.  
+* Built AWS infrastructure to support corporate big data platforms with S3, Redshift, Hortonworks, Tableau, and SAP HANA. 
+* Previously managed a small team of data center engineers covering hardware, virtualization, and applications.   
+
+* All Five AWS Certificates plus Specialty Certificate!
 * AWS Certified Solution Architect - Professional  
 * AWS Certified DevOps Engineer - Professional  
+* AWS Certified Big Data - Specialty  
 * AWS Certified Solution Architect - Associate  
 * AWS Certified Developer - Associate  
 * AWS Certified SysOps Administrator - Associate  
-* Managed a small team of data center engineers covering hardware, virtualization, and applications.  
   
 Specialties: Technical Profile:  
-* AWS - Cloud Formation Templates, VPC, EC2, S3, DevOps, RDS, EMR, DynamoDB, Lambda  
+* AWS - Terraform, Cloud Formation Templates, VPC, EC2, S3, DevOps, RDS, EMR, DynamoDB, Lambda  
 * Cloud - Amazon AWS, Savvis Station, Terremark Verizon  
 * Virtualization – Cloud Strategies, VCP, vSphere, vCenter, HA, DRS, SRM  
 * Operating Systems – ESXi 4.1 5.1, Redhat Linux, Amazon Linux, Windows 2008 2012 2016  
@@ -25,14 +29,14 @@ Experience
 
 ##### Senior Consultant  
 2nd Watch  
-October 2014 – Present (3 years 2 months)Greater Atlanta Area  
+October 2014 – Present (3 years 6 months)Greater Atlanta Area  
 Working on projects to architect, deploy, and manage critical business workloads in the public cloud for one of the largest and most recognizable brands in the world.  Concurrently engaged in multiple projects in different roles depending on expertise and availability.  
   
 * Big data infrastructure project.  Focus on architecting for secure access and data performance.   
 * Flagship consumer web site project.  Focus on architecting for high availability, elasticity, and response times.   
 * Enterprise Oracle application project.  Focus on architecting for low cost and security.   
 * Code Commit Helper development.  Creating development utilities to speed up cloud adoption.  
-* Other project examples available on request.   
+* Other project examples available on request.  
     
 ##### Cloud Virtualization Architect  
 Birch Communications (formerly CBeyond)  
@@ -53,29 +57,26 @@ Comprehensive experience in VMware and System Administration. Managing VMWare ES
 Certifications
 ------
 
-##### AWS Certified DevOps Engineer - Professional  
-Amazon Web Services, License AWS-PDOE-1697  
-March 2017 - March 2019  
-
 ##### AWS Certified Solutions Architect - Professional  
 Amazon Web Services, License AWS-PSA-1871  
-April 2016 - April 2018  
+
+##### AWS Certified DevOps Engineer - Professional  
+Amazon Web Services, License AWS-PDOE-1697  
+
+##### AWS Certified Big Data - Specialty  
+Amazon Web Services, License AWS-PSA-1871  
 
 ##### AWS Certified Solutions Architect - Associate  
 Amazon Web Services, License AWS-ASA-5575  
-January 2015  
 
 ##### AWS Certified Developer - Associate  
 Amazon Web Services, License AWS-ADEV-563  
-February 2015 – February 2017  
 
 ##### AWS Certified SysOps Administrator - Associate  
 Amazon Web Services, License AWS-ASOA-897  
-March 2015 – March 2017  
 
 ##### VMWare VCP 4.1  
 VMware, License 7228569-8750-86E78FD6FE7B  
-November 2011 – March 2015  
 
 Education
 ------
