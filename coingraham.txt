@@ -49,7 +49,7 @@ Previously the head VMWare/Virtualization architect for the CBeyond Total Cloud 
 ##### Team Lead, Server Operations  
 AirWatch/VMWare  
 July 2011 – October 2013 (2 years 4 months) Greater Atlanta Area  
-Lead a team of engineers that built and operated a state of the art private cloud for our hosted mobile device management clients.  Responsible for highly available physical/virtual infrastructure that formed the basis for the AirWatch SAAS offering.  This included VMWare, SAN and Server Operations. 
+Led a team of engineers that built and operated a state of the art private cloud for our hosted mobile device management clients.  Responsible for highly available physical/virtual infrastructure that formed the basis for the AirWatch SAAS offering.  This included VMWare, SAN and Server Operations. 
   
 ##### VMWare Administrator  
 Genuine Parts Company  
