@@ -44,13 +44,12 @@ Working on projects to architect, deploy, and manage critical business workloads
 ##### Cloud Virtualization Architect  
 Birch Communications (formerly CBeyond)  
 October 2013 – October 2014 (1 year 1 month) Greater Atlanta Area  
-Previously the head VMWare/Virtualization architect for the CBeyond Total Cloud offerings. I was responsible for over 100 hosts and over 2000 guests. Including multi-tenant customer-facing cloud vms and internal business critical systems.  Additionally I work with other infrastructure systems including EMC SAN, and Cisco UCS blades.  
+Previously the head VMWare/Virtualization architect for the CBeyond Total Cloud offerings. I was responsible for over 100 hosts and over 2000 guests. Including multi-tenant customer-facing cloud vms and internal business critical systems.  Additionally, I worked with other infrastructure systems including EMC SAN, and Cisco UCS blades.  
   
 ##### Team Lead, Server Operations  
 AirWatch/VMWare  
 July 2011 – October 2013 (2 years 4 months) Greater Atlanta Area  
-Virtualization and Storage Engineering  
-Datacenter Operations  
+Lead a team of engineers that built and operated a state of the art private cloud for our hosted mobile device management clients.  Responsible for highly available physical/virtual infrastructure that formed the basis for the AirWatch SAAS offering.  This included VMWare, SAN and Server Operations. 
   
 ##### VMWare Administrator  
 Genuine Parts Company  
