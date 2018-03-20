@@ -8,7 +8,8 @@ Professional Highlights:
 * Built AWS infrastructure to support corporate big data platforms with S3, Redshift, Hortonworks, Tableau, and SAP HANA. 
 * Previously managed a small team of data center engineers covering hardware, virtualization, and applications.   
 
-* All Five AWS Certificates plus Specialty Certificate!
+All Five AWS Certificates plus Specialty Certificate!  
+------
 * AWS Certified Solution Architect - Professional  
 * AWS Certified DevOps Engineer - Professional  
 * AWS Certified Big Data - Specialty  
@@ -16,7 +17,7 @@ Professional Highlights:
 * AWS Certified Developer - Associate  
 * AWS Certified SysOps Administrator - Associate  
   
-Specialties: Technical Profile:  
+Technical Profile:  
 * AWS - Terraform, Cloud Formation Templates, VPC, EC2, S3, DevOps, RDS, EMR, DynamoDB, Lambda  
 * Cloud - Amazon AWS, Savvis Station, Terremark Verizon  
 * Virtualization – Cloud Strategies, VCP, vSphere, vCenter, HA, DRS, SRM  
