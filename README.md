@@ -21,6 +21,7 @@ All Five AWS Certificates plus Specialty Certificate!
   
 Technical Profile: 
 ------ 
+* Enterprise Architecture, Operational Integration and Cloud Strategy  
 * AWS - Terraform, Cloud Formation Templates, VPC, EC2, S3, DevOps, RDS, EMR, DynamoDB, Lambda  
 * Cloud - Amazon AWS, Savvis Station, Terremark Verizon  
 * DevOps - GoCD, Bitbucket, Jarvis, Packer, CodeCommit, CodeDeploy, CodeBuild, Puppet, Chef, Ansible  
