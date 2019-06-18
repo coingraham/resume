@@ -1,6 +1,13 @@
 Coin Graham IV
 ======
   
+Driving Principles
+------
+* Cloud Advocacy - directing strategic initiatives to empower cloud adoption
+* Governance - utilizing cloud best practices to create guardrails that control but also accelerate the business
+* Security - wholistic approach to improving cloud security postures
+* DevOps - tactical implementation of DevOps strategies and tooling
+
 Professional Highlights:  
 ------
 * Leading a team of high impact consultants to accomplish client goals.  
@@ -33,9 +40,19 @@ Technical Profile:
 Experience
 ------
 
+##### Principal Consultant  
+2nd Watch  
+Jun 2018 – Present (1 yr 1 mo) Greater Atlanta Area  
+
+Executive guidance for cloud strategy and initiatives
+* Cloud Advocacy - directing strategic initiatives to empower cloud adoption
+* Governance - utilizing cloud best practices to create guardrails that control but also accelerate the business
+* Security - wholistic approach to improving cloud security postures
+* DevOps - tactical implementation of DevOps strategies and tooling
+
 ##### Senior Consultant  
 2nd Watch  
-October 2014 – Present (3 years 6 months) Greater Atlanta Area  
+October 2014 – Present (3 years 9 months) Greater Atlanta Area  
 Working on projects to architect, deploy, migrate, and manage critical business workloads in the public cloud for one of the largest and most recognizable brands in the world.  Concurrently engaged in multiple projects in different roles depending on expertise and availability.  
   
 * Big data infrastructure project.  Focus on architecting for secure access and data performance.  
