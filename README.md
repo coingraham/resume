@@ -1,7 +1,7 @@
 Coin Graham IV
 ======
   
-Driving Principles
+Driving Principles:
 ------
 * Cloud Advocacy - directing strategic initiatives to empower cloud adoption
 * Governance - utilizing cloud best practices to create guardrails that control but also accelerate the business
