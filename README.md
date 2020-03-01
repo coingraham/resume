@@ -4,8 +4,8 @@ Coin Graham IV
 Driving Principles:
 ------
 * Cloud Advocacy - directing strategic initiatives to empower cloud adoption
-* Governance - utilizing cloud best practices to create guardrails that control but also accelerate the business
-* Security - wholistic approach to improving cloud security postures
+* Cloud Governance - utilizing best practices to create guardrails that control and accelerate your business
+* Cloud Security - wholistic approach to improving cloud security postures
 * DevOps - tactical implementation of DevOps strategies and tooling
 
 Professional Highlights:  
@@ -30,19 +30,27 @@ Technical Profile:
 ------ 
 * Enterprise Architecture, Operational Integration and Cloud Strategy  
 * AWS - Terraform, Cloud Formation Templates, VPC, EC2, S3, DevOps, RDS, EMR, DynamoDB, Lambda  
+* Security - AWS Inspector, Trend Micro, Dome9, Rapid7, Splunk  
 * Cloud - Amazon AWS, Savvis Station, Terremark Verizon  
-* DevOps - GoCD, Bitbucket, Jarvis, Packer, CodeCommit, CodeDeploy, CodeBuild, Puppet, Chef, Ansible  
-* Virtualization – Cloud Strategies, VCP, vSphere, vCenter, HA, DRS, SRM  
-* Operating Systems – ESXi 4.1 5.1, Redhat Linux, Amazon Linux, Windows 2008 2012 2016  
-* Scripting – Python, Perl, Bash, Shell, vCLI, VMWare Perl SDK  
-* Monitoring – CloudWatch, CloudTrail  
+* DevOps - GoCD, Bitbucket, Jarvis, Packer, CodeCommit, CodeDeploy, CodeBuild, CodePipeline, Puppet, Chef, Ansible 
+* Big Data - AWS Athena, HiveQL, DynamoDB, AWS Glue, Spark, Python   
+* Operating Systems – Redhat, Amazon Linux, Alpine, Windows
+* Scripting – Python, Powershell, Perl, Bash
   
 Experience
 ------
 
+##### Solution Principal  
+Slalom 
+Jul 2019 – Present (8 mo) Greater Atlanta Area  
+
+Modern Data Architecture
+* Creating modern multi-cloud data pipeline architectures from Azure DevOps to AWS CodePipeline  
+* Move centralized data closer to the business though cloud "Data Hub" strategies    
+
 ##### Principal Consultant  
 2nd Watch  
-Jun 2018 – Present (1 yr 1 mo) Greater Atlanta Area  
+Jun 2018 – Present (1 yr 2 mo) Greater Atlanta Area  
 
 Executive guidance for cloud strategy and initiatives
 * Cloud Advocacy - directing strategic initiatives to empower cloud adoption
