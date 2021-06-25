@@ -3,19 +3,20 @@ Coin Graham IV
   
 Driving Principles:
 ------
-* Cloud Advocacy - directing strategic initiatives to empower cloud adoption
-* Cloud Governance - utilizing best practices to create guardrails that control and accelerate your business
-* Cloud Security - wholistic approach to improving cloud security postures
-* DevOps - tactical implementation of DevOps strategies and tooling
+* Cloud Advocacy - directing strategic initiatives to empower cloud adoption  
+* Cloud Governance - utilizing best practices to create guardrails that control and accelerate your business  
+* Cloud Security - wholistic approach to improving cloud security postures  
+* MLOps - machine learning and AI strategies in the cloud  
+* DevOps - tactical implementation of DevOps strategies and tooling  
 
 Professional Highlights:  
 ------
-* Leading a team of high impact consultants to accomplish client goals.  
-* Large scale enterprise migration strategy and planning.  
-* Creating security compliant infrastructure that meets PCI, PII, and international requirements.  
-* Migrated the largest consumer website for one of the top 5 most valuable brands in the world to AWS.  
-* Built AWS infrastructure to support corporate big data platforms with S3, Redshift, Hortonworks, Tableau, and SAP HANA. 
-* Previously managed a small team of data center engineers covering hardware, virtualization, and applications.   
+* Leading a team of high impact consultants to accomplish client goals  
+* Large scale enterprise migration strategy and planning  
+* Creating security compliant infrastructure that meets PCI, PII, and international requirements  
+* Migrated the largest consumer website for one of the top 5 most valuable brands in the world to AWS  
+* Built AWS infrastructure to support corporate big data platforms with S3, Redshift, Hortonworks, Tableau, and SAP HANA  
+* Previously managed a small team of data center engineers covering hardware, virtualization, and applications   
 
 All Five AWS Certificates plus Specialty Certificate!  
 ------
@@ -33,20 +34,29 @@ Technical Profile:
 * Security - AWS Inspector, Trend Micro, Dome9, Rapid7, Splunk  
 * Cloud - Amazon AWS, Savvis Station, Terremark Verizon  
 * DevOps - GoCD, Bitbucket, Jarvis, Packer, CodeCommit, CodeDeploy, CodeBuild, CodePipeline, Puppet, Chef, Ansible 
-* Big Data - AWS Athena, HiveQL, DynamoDB, AWS Glue, Spark, Python   
-* Operating Systems – Redhat, Amazon Linux, Alpine, Windows
+* Big Data - S3, Redshift, Athena, DynamoDB, Glue, Spark, Python   
+* Operating Systems – Redhat Linux, Amazon Linux, Alpine, Windows
 * Scripting – Python, Powershell, Perl, Bash
   
 Experience
 ------
 
+##### Principal Cloud Solution Architect - Senior Director  
+Merkle 
+Dec 2020 – Present (7 mo) United States  
+
+Marketing Cloud Solution Architecture
+* Creating cloud data fabric accelerator to empower BI/Visualizations, CDP implementation, AI/ML, and digital marketing  
+* Successfully achieved Redshift SDP Partnership status    
+
 ##### Solution Principal  
 Slalom 
-Jul 2019 – Present (8 mo) Greater Atlanta Area  
+Jul 2019 – Dec 2020 (1 yr 6 mo) Greater Atlanta Area  
 
 Modern Data Architecture
 * Creating modern multi-cloud data pipeline architectures from Azure DevOps to AWS CodePipeline  
-* Move centralized data closer to the business though cloud "Data Hub" strategies    
+* Move centralized data closer to the business though cloud "Data Hub" strategies 
+* Creation of MLOps pipeline for ML path to production  
 
 ##### Principal Consultant  
 2nd Watch  
@@ -84,30 +94,6 @@ Led a team of engineers that built and operated a state of the art private cloud
 Genuine Parts Company  
 June 2007 – July 2011 (4 years 2 months)  
 Comprehensive experience in VMware and System Administration. Managing VMWare ESX v4.1 in HP c7000 blade enclosures.  
-
-Certifications
-------
-
-##### AWS Certified Solutions Architect - Professional  
-Amazon Web Services, License AWS-PSA-1871  
-
-##### AWS Certified DevOps Engineer - Professional  
-Amazon Web Services, License AWS-PDOE-1697  
-
-##### AWS Certified Big Data - Specialty  
-Amazon Web Services, License AWS-PSA-1871  
-
-##### AWS Certified Solutions Architect - Associate  
-Amazon Web Services, License AWS-ASA-5575  
-
-##### AWS Certified Developer - Associate  
-Amazon Web Services, License AWS-ADEV-563  
-
-##### AWS Certified SysOps Administrator - Associate  
-Amazon Web Services, License AWS-ASOA-897  
-
-##### VMWare VCP 4.1  
-VMware, License 7228569-8750-86E78FD6FE7B  
 
 Education
 ------
