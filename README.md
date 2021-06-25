@@ -1,6 +1,7 @@
 Coin Graham IV
 ======
-  
+[LinkedIn](https://www.linkedin.com/in/coingraham/)  
+
 Driving Principles:
 ------
 * Cloud Advocacy - directing strategic initiatives to empower cloud adoption  
